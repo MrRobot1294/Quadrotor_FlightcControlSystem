@@ -1,0 +1,129 @@
+Build target 'template'
+assembling startup_TM4C123.s...
+compiling gpio.c...
+..\driverlib\gpio.c(49): error:  #5: cannot open source input file "inc/hw_gpio.h": No such file or directory
+compiling main.c...
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Rebuild target 'template'
+assembling startup_TM4C123.s...
+compiling gpio.c...
+..\driverlib\gpio.c(49): error:  #5: cannot open source input file "inc/hw_gpio.h": No such file or directory
+compiling main.c...
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Rebuild target 'template'
+assembling startup_TM4C123.s...
+compiling gpio.c...
+..\driverlib\gpio.c(49): error:  #5: cannot open source input file "inc/hw_gpio.h": No such file or directory
+compiling main.c...
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'template'
+compiling gpio.c...
+..\driverlib\gpio.c(65): error:  #20: identifier "GPIO_PORTA_BASE" is undefined
+..\driverlib\gpio.c(65): error:  #20: identifier "INT_GPIOA_BLIZZARD" is undefined
+..\driverlib\gpio.c(66): error:  #20: identifier "GPIO_PORTA_AHB_BASE" is undefined
+..\driverlib\gpio.c(67): error:  #20: identifier "GPIO_PORTB_BASE" is undefined
+..\driverlib\gpio.c(67): error:  #20: identifier "INT_GPIOB_BLIZZARD" is undefined
+..\driverlib\gpio.c(68): error:  #20: identifier "GPIO_PORTB_AHB_BASE" is undefined
+..\driverlib\gpio.c(69): error:  #20: identifier "GPIO_PORTC_BASE" is undefined
+..\driverlib\gpio.c(69): error:  #20: identifier "INT_GPIOC_BLIZZARD" is undefined
+..\driverlib\gpio.c(70): error:  #20: identifier "GPIO_PORTC_AHB_BASE" is undefined
+..\driverlib\gpio.c(71): error:  #20: identifier "GPIO_PORTD_BASE" is undefined
+..\driverlib\gpio.c(71): error:  #20: identifier "INT_GPIOD_BLIZZARD" is undefined
+..\driverlib\gpio.c(72): error:  #20: identifier "GPIO_PORTD_AHB_BASE" is undefined
+..\driverlib\gpio.c(73): error:  #20: identifier "GPIO_PORTE_BASE" is undefined
+..\driverlib\gpio.c(73): error:  #20: identifier "INT_GPIOE_BLIZZARD" is undefined
+..\driverlib\gpio.c(74): error:  #20: identifier "GPIO_PORTE_AHB_BASE" is undefined
+..\driverlib\gpio.c(75): error:  #20: identifier "GPIO_PORTF_BASE" is undefined
+..\driverlib\gpio.c(75): error:  #20: identifier "INT_GPIOF_BLIZZARD" is undefined
+..\driverlib\gpio.c(76): error:  #20: identifier "GPIO_PORTF_AHB_BASE" is undefined
+..\driverlib\gpio.c(77): error:  #20: identifier "GPIO_PORTG_BASE" is undefined
+..\driverlib\gpio.c(77): error:  #20: identifier "INT_GPIOG_BLIZZARD" is undefined
+..\driverlib\gpio.c(78): error:  #20: identifier "GPIO_PORTG_AHB_BASE" is undefined
+..\driverlib\gpio.c(79): error:  #20: identifier "GPIO_PORTH_BASE" is undefined
+..\driverlib\gpio.c(79): error:  #20: identifier "INT_GPIOH_BLIZZARD" is undefined
+..\driverlib\gpio.c(80): error:  #20: identifier "GPIO_PORTH_AHB_BASE" is undefined
+..\driverlib\gpio.c(81): error:  #20: identifier "GPIO_PORTJ_BASE" is undefined
+..\driverlib\gpio.c(81): error:  #20: identifier "INT_GPIOJ_BLIZZARD" is undefined
+..\driverlib\gpio.c(82): error:  #20: identifier "GPIO_PORTJ_AHB_BASE" is undefined
+..\driverlib\gpio.c(83): error:  #20: identifier "GPIO_PORTK_BASE" is undefined
+..\driverlib\gpio.c(83): error:  #20: identifier "INT_GPIOK_BLIZZARD" is undefined
+..\driverlib\gpio.c(84): error:  #20: identifier "GPIO_PORTL_BASE" is undefined
+compiling main.c...
+"..\output\template.axf" - 30 Errors, 0 Warning(s).
+Target not created
+Rebuild target 'template'
+assembling startup_TM4C123.s...
+compiling gpio.c...
+..\driverlib\gpio.c(49): error:  #5: cannot open source input file "inc/hw_gpio.h": No such file or directory
+compiling main.c...
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'template'
+compiling gpio.c...
+..\driverlib\gpio.c(49): error:  #5: cannot open source input file "inc/hw_gpio.h": No such file or directory
+compiling main.c...
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'template'
+compiling gpio.c...
+..\driverlib\gpio.c(50): error:  #5: cannot open source input file "inc/hw_ints.h": No such file or directory
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'template'
+compiling gpio.c...
+..\driverlib\gpio.c(49): error:  #5: cannot open source input file "inc/hw_gpio.h": No such file or directory
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'template'
+compiling gpio.c...
+..\driverlib\gpio.c(49): error:  #5: cannot open source input file "inc/hw_gpio.h": No such file or directory
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'template'
+compiling gpio.c...
+..\driverlib\gpio.c(49): error:  #5: cannot open source input file "inc/hw_gpio.h": No such file or directory
+compiling main.c...
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'template'
+compiling gpio.c...
+..\driverlib\gpio.c(49): error:  #5: cannot open source input file "inc/hw_gpio.h": No such file or directory
+compiling main.c...
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'template'
+compiling gpio.c...
+..\driverlib\gpio.c(50): error:  #5: cannot open source input file "inc/hw_ints.h": No such file or directory
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'template'
+compiling gpio.c...
+linking...
+..\output\template.axf: Error: L6218E: Undefined symbol SystemInit (referred from startup_tm4c123.o).
+..\output\template.axf: Error: L6218E: Undefined symbol main (referred from rtentry2.o).
+"..\output\template.axf" - 2 Errors, 0 Warning(s).
+Target not created
+Build target 'template'
+assembling startup_rvmdk.S...
+compiling main.c...
+linking...
+..\output\template.axf: Error: L6218E: Undefined symbol main (referred from rtentry2.o).
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'template'
+compiling main.c...
+linking...
+..\output\template.axf: Error: L6218E: Undefined symbol main (referred from rtentry2.o).
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'template'
+assembling startup_rvmdk.S...
+compiling gpio.c...
+compiling main.c...
+linking...
+..\output\template.axf: Error: L6218E: Undefined symbol main (referred from entry9a.o).
+"..\output\template.axf" - 1 Errors, 0 Warning(s).
+Target not created

@@ -1,0 +1,11 @@
+..\output\adc.o: ..\driverlib\adc.c
+..\output\adc.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\adc.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output\adc.o: ..\inc\hw_adc.h
+..\output\adc.o: ..\inc\hw_ints.h
+..\output\adc.o: ..\inc\hw_memmap.h
+..\output\adc.o: ..\inc\hw_types.h
+..\output\adc.o: ..\inc\hw_sysctl.h
+..\output\adc.o: ..\driverlib\adc.h
+..\output\adc.o: ..\driverlib\debug.h
+..\output\adc.o: ..\driverlib\interrupt.h

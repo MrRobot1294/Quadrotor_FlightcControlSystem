@@ -1,0 +1,11 @@
+..\output\pwm.o: ..\driverlib\pwm.c
+..\output\pwm.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\pwm.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output\pwm.o: ..\inc\hw_ints.h
+..\output\pwm.o: ..\inc\hw_memmap.h
+..\output\pwm.o: ..\inc\hw_pwm.h
+..\output\pwm.o: ..\inc\hw_sysctl.h
+..\output\pwm.o: ..\inc\hw_types.h
+..\output\pwm.o: ..\driverlib\debug.h
+..\output\pwm.o: ..\driverlib\interrupt.h
+..\output\pwm.o: ..\driverlib\pwm.h

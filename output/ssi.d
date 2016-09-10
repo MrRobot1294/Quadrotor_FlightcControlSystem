@@ -1,0 +1,11 @@
+..\output\ssi.o: ..\driverlib\ssi.c
+..\output\ssi.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\ssi.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output\ssi.o: ..\inc\hw_ints.h
+..\output\ssi.o: ..\inc\hw_memmap.h
+..\output\ssi.o: ..\inc\hw_ssi.h
+..\output\ssi.o: ..\inc\hw_sysctl.h
+..\output\ssi.o: ..\inc\hw_types.h
+..\output\ssi.o: ..\driverlib\debug.h
+..\output\ssi.o: ..\driverlib\interrupt.h
+..\output\ssi.o: ..\driverlib\ssi.h
